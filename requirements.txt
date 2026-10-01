@@ -1,0 +1,5 @@
+streamlit
+requests
+pypdf
+google-genai
+apscheduler
