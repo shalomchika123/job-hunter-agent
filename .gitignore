@@ -1,0 +1,4 @@
+hunters.db
+.env
+__pycache__/
+.venv/
